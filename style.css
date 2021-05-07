@@ -1,5 +1,23 @@
-body {
-    color: red;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: x-large;
+*{
+    margin: 0;
+}
+body{
+    background-image: url("./Images/");
+    background-repeat: no-repeat;
+    background-size:initial ;
+    background-size: cover;
+    width: 1440px;
+    height: 1411px;
+}
+
+.header{
+    padding: 50px;
+}
+
+#paragraph, #heading{
+    text-align: center;
+}
+
+.header, .body{
+    background-color: black;
 }
