@@ -6,8 +6,6 @@ body{
     background-repeat: no-repeat;
     background-size:initial ;
     background-size: cover;
-    width: 1440px;
-    height: 1411px;
 }
 
 .header{
@@ -16,6 +14,7 @@ body{
 
 #paragraph, #heading{
     text-align: center;
+    color: white;
 }
 
 .header, .body{
